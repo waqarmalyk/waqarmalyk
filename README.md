@@ -1,16 +1,23 @@
-### Hi there 👋
+### Welcome to Ahmed's Profile 👋
 
-<!--
-**waqarmalyk/waqarmalyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Pension and Insurance Actuar Web App within Norwegain Pension and Fund system.
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/waqarmalyk
+- 🌱 I’m currently learning Azure DevOps and Backend Development.
+- 💬 Ask me about anything about my Tech Stack and my interests.
+- ⚡ Fun fact: I don't like coding!
+- 😄 Pronouns: He/Him/His
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Tools which I love working with:</h3>
+<div style="float: left;">
+    
+<img src="https://badgen.net/badge/HTML/5/green?icon=" />
+<img src="https://badgen.net/badge/CSS/3/green?icon=" />
+<img src="https://badgen.net/badge/JavaScript/ES13/green?icon=" />
+<img src="https://badgen.net/badge/typescript/5.0/green?icon=" />
+<img src="https://badgen.net/badge/chrome/101/green/?icon=" />
+<img src="https://badgen.net/badge/Node.js/19.6/green?icon=" />
+<img src="https://badgen.net/badge/React/18.2/green?icon=" />
+<img src="https://badgen.net/badge/VSCode/1.72/green?icon=" />
+<img src="https://badgen.net/badge/ChatGPT/4/green?icon=" />
+    
+</div>
